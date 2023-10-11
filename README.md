@@ -10,7 +10,7 @@
 - ⚡ Fun fact **Pope Francis worked in his youth as a security guard at a nightclub in Buenos Aires**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pioblaszcz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pioblaszcz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pioblaszcz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pioblaszcz" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100005502377954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005502377954" height="30" width="40" /></a>
 </p>
 
