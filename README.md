@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
-<h3 align="center">A 20 yo web developer who loves to create new things</h3>
+<h3 align="center">A 21 yo web developer who loves to create new things</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 - 🌱 I’m currently learning **Java**
 
