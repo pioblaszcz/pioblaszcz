@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">22 yo  Full Stack Developer focused on building clean, scalable applications</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
-- 👨‍💻 All of my projects are available at [https://piotrblaszczak.com](https://piotrblaszczak.com)
+- 👨‍💻 All of my projects are available at [https://piotrblaszczak.com]
 
 - 📫 How to reach me **pkblaszczak@gmail.com**
 
